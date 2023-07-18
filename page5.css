@@ -1,0 +1,55 @@
+body{
+    margin: auto;
+    align-items: center;
+    text-align: center;
+}
+
+.notifications{
+    border:1px solid black;
+    border-radius: 20px;
+    background-color: #D4D3D3;
+
+    width: 300px;
+    height: 500px;
+
+    margin: 20px auto;
+    padding: 5px 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+h2{
+
+}
+
+.card{
+    width: 180px;
+    margin: 10px 0px;
+    width: 100%;
+    border-radius: 20px;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+
+img{
+    width: 100px;
+    border-radius: 999999999px;
+    border: 1px solid black;
+}
+.words{
+
+}
+
+.title{
+
+}
+
+.content{
+
+}
+.time{
+
+}
